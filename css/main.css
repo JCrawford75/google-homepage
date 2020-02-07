@@ -1,36 +1,45 @@
-.upleft{
-
-    text-align: left;
-}
-
-.upright{
-
-    text-align: right;
-}
 
 li {
-    display: inline;
+  display: inline;
 }
 
 .topright { 
-display: inline-block;
+display: block;
 line-height: 24px;
 outline: none;
 vertical-align: middle;
 }
 
 .aB {
-  text-align: right;
+float: right;
 }
 
 
 .topleft { 
-display: inline-block;
+display: block;
 line-height: 24px;
 outline: none;
 vertical-align: middle;
 }
 
 .Ba {
-  text-align: left;
+float: left;
 }
+
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 50px;
+width: 50%;
+}
+.img-container {
+  text-align: center;
+  display: block;
+  
+  
+. bB {
+ position: relative;
+ margin: 0px;
+}
+
