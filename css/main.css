@@ -1,0 +1,36 @@
+.upleft{
+
+    text-align: left;
+}
+
+.upright{
+
+    text-align: right;
+}
+
+li {
+    display: inline;
+}
+
+.topright { 
+display: inline-block;
+line-height: 24px;
+outline: none;
+vertical-align: middle;
+}
+
+.aB {
+  text-align: right;
+}
+
+
+.topleft { 
+display: inline-block;
+line-height: 24px;
+outline: none;
+vertical-align: middle;
+}
+
+.Ba {
+  text-align: left;
+}
