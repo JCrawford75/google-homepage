@@ -1,11 +1,15 @@
 .fR {
   float: right;
     padding-left: 5px;
+    text-decoration: none;
+    color: gray;
   display: block:
   }
   .fL {
     float: left;
     display:block;
+    color: gray;
+    text-decoration: none;
     padding-right: 5px;
     }
     
@@ -33,4 +37,8 @@
    margin: 0px;
   }
   
-  
+  .search {
+      display: block;
+      position: relative;
+      margin-top: 22px;
+  }
