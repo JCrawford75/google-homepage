@@ -1,4 +1,4 @@
-v2.0 | 20110126
+/*v2.0 | 20110126
 License: none (public domain)
 */
  
@@ -54,7 +54,7 @@ border-spacing: 0;
     padding-left: 5px;
     text-decoration: none;
     color: gray;
-  display: block:
+  display: block;
   }
   .fL {
     float: left;
@@ -64,10 +64,10 @@ border-spacing: 0;
     padding-right: 5px;
     }
     
-  .testingit{display:block;
+  .testingit{
+  display:block;
   line-height: 24px;
   outline: none;
-  vertical-align: middle;
   }
   
   .center {
@@ -78,12 +78,12 @@ border-spacing: 0;
   width: 50%;
   }
   .img-container {
-    posistion: relative;
+    position: relative;
     text-align: center;
     padding-top: 150px;
   }
     
-  . bB {
+  .bB {
    position: relative;
    margin: 0px;
   }
